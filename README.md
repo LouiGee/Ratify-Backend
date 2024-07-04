@@ -6,8 +6,6 @@ Object oriented programming using Java
 **Current**: 22\
 **Hours per day needed**: 1 
 
+![Screenshot 2024-07-04 at 14 57 21](https://github.com/LouiGee/OOP/assets/42655505/f26c5a80-dace-4faa-a5de-00c832cf2f85)
 
-<img width="550" alt="Screenshot 2024-07-01 at 22 51 05" src="https://github.com/LouiGee/OOP/assets/42655505/fe2878a9-5315-47be-8642-60993a64ef2e">
-
-<img width="550" alt="Screenshot 2024-07-02 at 15 30 23" src="https://github.com/LouiGee/OOP/assets/42655505/fca13ee9-8622-42fe-aa9c-3e51440736ad">
 
