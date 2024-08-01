@@ -2,7 +2,7 @@
 Object oriented programming using Java
 
 ## Target hours revision 
-**Target**: 100 \
+**Target**: 150 \
 **Current**: 70\
 **Hours per day needed**: 1 
 
