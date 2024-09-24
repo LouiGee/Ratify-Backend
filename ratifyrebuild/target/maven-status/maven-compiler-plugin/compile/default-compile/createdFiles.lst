@@ -1,0 +1,12 @@
+com/ratify/Entities/User$UserBuilder.class
+com/ratify/Entities/Employee.class
+com/ratify/Repository/RoleRepository.class
+com/ratify/EmployeeDetail/EmployeeConfig.class
+com/ratify/EmployeeDetail/EmployeeService.class
+com/ratify/Entities/Role$RoleBuilder.class
+com/ratify/Repository/UserRepository.class
+com/ratify/Entities/Role.class
+com/ratify/EmployeeDetail/EmployeeController.class
+com/ratify/RatifyApplication.class
+com/ratify/Entities/User.class
+com/ratify/Repository/EmployeeRepository.class
