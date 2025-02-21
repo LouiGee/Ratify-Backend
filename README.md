@@ -3,6 +3,6 @@ Ratify backend
 
 ## Target hours revision 
 **Target**: 450 \
-**Current**: 172.5 \
+**Current**: 175 \
 **Hours per day needed**: 
 
